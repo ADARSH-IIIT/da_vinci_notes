@@ -1,0 +1,13 @@
+all about adding and removing and increasing duration of annotation 
+
+
+
+
+annotation added in media pool section , will be available in all other tabs except cut tool 
+
+because in cut tool , no need of anaotations 
+
+
+
+
+if we remove any annotation by delete button in edit section , it will be removed for rightmost tabs , but for left most tab ===> media pool all old annotation will be ther e

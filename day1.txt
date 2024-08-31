@@ -1,0 +1,14 @@
+how to create a new db 
+how to see address of db 
+how to create new projects in db 
+how to connect to an exisiting db 
+sorting list of db 
+project manager interface all icons and their usage , use of each thing 
+copy paste of projects
+creating folder inside db and creating projects in side those folders
+
+import export of .drp files    da_vinci_resolve file
+
+how to go from opened project to  project manager using home icon in bottom right 
+
+how to close project manager , cross button in top left 

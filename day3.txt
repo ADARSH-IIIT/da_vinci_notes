@@ -1,0 +1,17 @@
+media pool tab 
+all icons use 
+concept of different bins 
+moving videos from one bin to another by drag and drop by multi view bin option 
+
+use of all icons 
+I and o button use 
+use of inspector tool and metadata tool to get more info of particular video 
+
+creation and deletion of bins 
+
+moving media folder directly to master bin 
+
+sorting of list of videos in media pool by using diff params 
+
+overall media pool section ke sabhi iconsd ka use properly 
+and basic workflow of importing media to media pool 

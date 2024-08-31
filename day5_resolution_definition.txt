@@ -1,0 +1,44 @@
+resolution ===> no of pixels to be displayed in that screen of monitor 
+
+
+eg 1920 by 1080 p ===> 1920 pixels in width and 1080 pixels in height ===> total 1920 * 1080 pixels in whole screen
+
+size and area of 1 pixel depend upon quality of screen 
+
+
+
+
+higher resolution === > good quality ==> not always 
+
+
+higher resolution in small screen ===> best result 
+
+
+
+agar screen bahut badi hui let say 50inch and resolution kam toh pixels ka size increase ho jayega to cover whole screen ==> blury 
+
+
+wahi phone choti screen hai toh 480*360 pixrls bhi enough hote hain , unke size chote hi rehte hain and good quality 
+
+
+overall 
+
+resolution ==> total number of pixels to be displayed on screen 
+
+
+
+let say screen is of 10000 mm by 10000 mm 
+
+resolution = 400 by 400 pixel 
+
+
+size or area of 1 pixel ====   10000 * 10000   /  400 * 400 
+
+
+
+smaller the area of 1 pixel ===> better the quality ===> lesser the blurness 
+
+
+
+
+======>> quality totally depend upon resolution as well as size of screen 

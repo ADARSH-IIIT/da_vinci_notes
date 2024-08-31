@@ -1,0 +1,14 @@
+what are use of media proxies 
+
+how to identify whether proxy of this file exist or not 
+
+
+chaning setting about prox y setting of curetn project from right bottom icon gear 
+
+
+playback ===> proxy handling ==> preferences etc 
+
+
+
+
+all about proxies 

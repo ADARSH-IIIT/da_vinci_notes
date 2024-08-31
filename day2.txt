@@ -1,0 +1,16 @@
+changing resolution of that specific project by clicking on gear icon right bottom 
+
+changing framerate of project timline 
+
+note always change cramerate before importing media , after importing we cant frame rateb 
+
+
+
+
+this gear icon only changes setting for that particular project 
+
+for yt 1920- hd 
+
+fr = 24 , 30 
+
+for gaming videos more than 60 
